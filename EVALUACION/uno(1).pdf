@@ -1,0 +1,74 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "ccf57f09-309c-47c2-af90-c7c82ec35c5f",
+   "metadata": {},
+   "source": [
+    "# 1. Pensamiento computacional. Describa los cuatro elementos que comprenden el Pensamiento Computacional y de  un ejemplo de cada uno. (1 pt)\n",
+    "***\n",
+    "\n",
+    "Los cuatro elementos del pensamiento computacional son:\n",
+    "\n",
+    "1.- Descomposición\n",
+    "\n",
+    "Consiste en \"partir\" un problema grande en otros más pequeños para poder examinarlos con detalle. Por ejemplo cuando nos piden señalar las diferencias entre dos imágenes CASI iguales. Se deben descomponer las imágenes proporcionadas por zonas, cuadrantes o areas para examinar cada uno de sus componentes. \n",
+    "\n",
+    "![EJEMPLO 1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkToGKEwinv0673KY6_w7rmgjBBE94TqdrZg&usqp=CAU)\n",
+    "\n",
+    "2.- Reconocimiento de patrones\n",
+    "\n",
+    "El reconocimiento de patrones consta de buscar similitudes para poder resolver un problema. Como por ejemplo:\n",
+    "\n",
+    "![EJEMPLO 2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYW9zI5uhIGAlrukVF5o2CzaLXsF30LxP6Q&usqp=CAU)\n",
+    "\n",
+    "En este ejemplo podemos darnos cuenta de que el patrón esta en el numero de vertices que tocan la circunferencia: empieza en 4, luego 5, 6, 7 por lo que podemos decir que la siguiente figra será una en la cual la estrella dentro de la circunferencia sea de 8 picos. \n",
+    "\n",
+    "3.- Abstracción\n",
+    "\n",
+    "Es como se representa un problema. Podría decirse que es aqui donde se \"omiten\" aquellos detalles que no nos interesan para poder tener una generalización.\n",
+    "En el siguiente ejemplo, es fácil ver que se ha generalizado la representación de las mujeres con la silueta de la izquierda. La representación de los hombres en cambio es la de la derecha. Esta representación de ambos generos es lo que permite que todo el mundo (sin importar las diferencias lingüísticas) comprendan que esos simbolos indican a que género le pertenece cada sanitario. \n",
+    "\n",
+    "![EJEMPLO 3](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Spc7fHxcRPQmztQpysfBk_Uvq8rlIvWbbA&usqp=CAU)\n",
+    "\n",
+    "\n",
+    "\n",
+    "4.- Algoritmos\n",
+    "\n",
+    "Esta es la parte final del pensamieto computacional, y es donde se formalizan los procedimientos necesarios para la solución de un problema. Es decir, que después de hacer el análisis del problema, lo que sigue es generar los pasos a seguir para su solución. \n",
+    "Para ejemplificar, tomaré el ejercicio realizado al inicio del curso: Realizar un diagrama para dar una cantidad de dinero con el menor número de biletes y/o monedas posible.  Se tienen disponibles monedas de $1, $5, $10,  billetes de $20, $50, $100.\n",
+    "\n",
+    "![EJEMPLO 4](https://jupyter1.atmosfera.unam.mx/jupyter/user/alumno04/files/TAREAS/LINA/TAREA_CAMBIO_.drawio.png?_xsrf=2%7Cafc75549%7C2dfbd98f242d7ba1fa8030a0e3a5e1a7%7C1641832294)\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "9a1cc869-e0c7-415a-909a-b5a631299f7d",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.10.0"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}

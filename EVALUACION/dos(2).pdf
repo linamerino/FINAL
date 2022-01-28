@@ -1,0 +1,62 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "314d0df8-8700-4bd6-8311-ec20d5e8aba0",
+   "metadata": {},
+   "source": [
+    "# 2. Para el cálculo de un tríangulo rectángulo ponga en orden los siguientes pasos que se emplearian para calcular el área y elaborar el diagrama de flujo. (1 pt)\n",
+    "\n",
+    ">    - A = bxH\n",
+    ">- Imprimir el resultado\n",
+    ">- Obtener la dimensión de la base (b)\n",
+    ">- Obtener la dimensión de la altura (h)\n",
+    "***\n",
+    "\n",
+    "Paso 1:\n",
+    " Obtener la dimensión de la base (b)\n",
+    "\n",
+    "Paso 2:\n",
+    " Obtener la dimensión de la base (H)\n",
+    "\n",
+    "Paso 3:\n",
+    " A = bxH\n",
+    "\n",
+    "Paso 4:\n",
+    " Imprimir el resultado\n",
+    " \n",
+    "\n",
+    "![Diagrama](https://jupyter1.atmosfera.unam.mx/jupyter/user/alumno04/files/TAREAS/LINA/dos.png?_xsrf=2%7Cafc75549%7C2dfbd98f242d7ba1fa8030a0e3a5e1a7%7C1641832294)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "843f0913-ebbc-4356-aa09-508b1b23d053",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.10.0"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
